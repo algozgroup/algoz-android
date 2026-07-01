@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.algozgroup.com/logos/algoz-logo.jpg" alt="ALGOZ" width="200">
+  <img src="assets/algoz-app-icon.png" alt="Algoz" width="150">
 
   # Algoz — Android App
 
