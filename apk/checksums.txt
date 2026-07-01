@@ -1,0 +1,4 @@
+Algoz Android — release checksums (SHA-256)
+
+algoz-member.apk  (v1.4.0 build 7 · 01 Jul 2026)
+d066ae8fe9be202c4dbe0d2e971deb6d9418c1ec0d22874da9e33c70bdf3e558
