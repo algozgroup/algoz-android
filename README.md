@@ -17,7 +17,7 @@
 | | |
 |---|---|
 | **Version** | 1.4.1 (build 8) |
-| **Released** | 01 July 2026 |
+| **Released** | 02 July 2026 |
 | **Size** | 10.3 MB |
 | **Requires** | Android 7.0 or later |
 
