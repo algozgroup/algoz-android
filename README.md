@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| **Version** | 1.4.2 (build 8) |
+| **Version** | 1.4.3 (build 10) |
 | **Released** | 03 July 2026 |
 | **Size** | 10.3 MB |
 | **Requires** | Android 7.0 or later |
