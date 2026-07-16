@@ -16,8 +16,8 @@
 
 | | |
 |---|---|
-| **Version** | 1.4.3 (build 11) |
-| **Released** | 15 July 2026 |
+| **Version** | 1.4.6 (build 27) |
+| **Released** | 16 July 2026 |
 | **Size** | 10.3 MB |
 | **Requires** | Android 7.0 or later |
 
@@ -46,7 +46,7 @@ Every release lists a SHA-256 checksum so you can confirm the file is authentic 
 Current build:
 
 ```
-03ae8a5627de570803b1516b11e4be0dcc1e40324ede72e9fb075129c0531c4c  algoz-member.apk
+3bfb2607eb9c456dca88de26e072a7a9b8755e215d874933201b5cde49f4c17e  algoz-member.apk
 ```
 
 On a computer you can check it with `sha256sum algoz-member.apk` (Linux/macOS) or `certutil -hashfile algoz-member.apk SHA256` (Windows).
