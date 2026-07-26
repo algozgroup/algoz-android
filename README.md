@@ -21,7 +21,15 @@
 | **Size** | 10.3 MB |
 | **Requires** | Android 7.0 or later |
 
-You can also get Algoz on the **Google Play Store** and, for iPhone, on the **Apple App Store**.
+### Prefer an app store?
+
+Algoz is also published on the official stores — get it there for automatic updates:
+
+<div align="center">
+
+[<img src="assets/app-store-badge.png" alt="Download on the App Store" height="54">](https://apps.apple.com/us/app/algoz/id6777473841) &nbsp;&nbsp; [<img src="assets/google-play-badge.png" alt="Get it on Google Play" height="54">](https://play.google.com/store/apps/details?id=com.algozgroup.member)
+
+</div>
 
 ---
 
