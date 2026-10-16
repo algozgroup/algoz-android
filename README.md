@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/algoz-app-icon.png" alt="Algoz" width="150">
 
-  # Algoz — Android App
+  # Algoz Android App
 
   **Excellence, Discreetly Delivered**
 
@@ -16,14 +16,14 @@
 
 | | |
 |---|---|
-| **Version** | 1.4.6 (build 27) |
-| **Released** | 16 July 2026 |
-| **Size** | 10.3 MB |
+| **Version** | 1.5.0 (build 28) |
+| **Released** | 16-OCT-2026 |
+| **Size** | 10.7 MB |
 | **Requires** | Android 7.0 or later |
 
 ### Prefer an app store?
 
-Algoz is also published on the official stores — get it there for automatic updates:
+Algoz is also published on the official stores. Get it there for automatic updates:
 
 <div align="center">
 
@@ -41,9 +41,9 @@ Because this app is installed directly (outside the Play Store), Android asks yo
 2. Open the downloaded file (from your notification bar or the **Downloads** folder).
 3. If Android says installs from this source aren't allowed, tap **Settings** on that prompt and enable **Allow from this source** (or **Install unknown apps**), then go back.
 4. Tap **Install**, then **Open**.
-5. Sign in with the email and temporary password provided by your Algoz relationship manager. You'll set your own password on first sign-in.
+5. Sign in with your Algoz account. New to Algoz? Tap **Apply** on the sign-in screen to request a membership or free Client Access.
 
-Updates are announced by Algoz — download the newest APK here whenever a new version is released. (The app keeps its content up to date automatically once installed.)
+Updates are announced by Algoz. Download the newest APK here whenever a new version is released. (The app keeps its content up to date automatically once installed.)
 
 ---
 
@@ -54,7 +54,7 @@ Every release lists a SHA-256 checksum so you can confirm the file is authentic 
 Current build:
 
 ```
-3bfb2607eb9c456dca88de26e072a7a9b8755e215d874933201b5cde49f4c17e  algoz-member.apk
+516736fdbed121366e7809a8f8148753157332c0453863ea980d96d80684c4b6  algoz-member.apk
 ```
 
 On a computer you can check it with `sha256sum algoz-member.apk` (Linux/macOS) or `certutil -hashfile algoz-member.apk SHA256` (Windows).
